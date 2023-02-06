@@ -22,8 +22,8 @@ An autoencoder is composed of an encoder and a decoder sub-models. The encoder c
 
 **Different Use Cases of Autoencoders**
 
-**Denoising Autoencoders**: such a model is used when we want to clean the input from some noisy patterns. It is trained by corrupting the input (using Gaussian noise, for instance) and using the original input (before noise introduction) as output.
+**Denoising Autoencoders**: Such a model is used when we want to clean the input from some noisy patterns. It is trained by corrupting the input (using Gaussian noise, for instance) and using the original input (before noise introduction) as output.
 
-**Generation**: a flavor of autoencoders called Variational Autoencoder (VAE) learns a probability distribution function to sample and generate new data.
+**Generation**: A flavor of autoencoders called Variational Autoencoder (VAE) learns a probability distribution function to sample and generate new data.
 
-**Dimensionality Reduction & Feature Selection**:Dimensionality Reduction is the process of reducing the number of dimensions by transforming the data into lower dimensions.
+**Dimensionality Reduction & Feature Selection**: Dimensionality Reduction is the process of reducing the number of dimensions by transforming the data into lower dimensions.
