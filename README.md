@@ -6,9 +6,9 @@ ________________________________________________________________________________
 
 We will use the variable modulus of elasticity to check the autoencoder model (that output is same as the input) and further we will check the whether the dimension of the input dataset it reduced or not.
 
-The equation used for the modulus of elaticity is: 
+The equation used for the modulus of elaticity is:  
 
-**E=a0+(a1*(x^n))** 
+E=a0+(a1*(x^n))
 
 Here, a0, a1 and n are constants that are generated randomly in the code.
 
