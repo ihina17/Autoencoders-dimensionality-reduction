@@ -1,4 +1,5 @@
-# Autoencoders-dimensionality-reduction
+# Autoencoders
+
 Autoencodrs and its application of dimensionality reduction
 _________________________________________________________________________________________________________________________________________________________________
 
